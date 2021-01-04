@@ -70,7 +70,7 @@ BG.ClipsDescendants = true
 
 Ribbon.Name = "Ribbon"
 Ribbon.Parent = BG
-Ribbon.BackgroundColor3 = Color3.new(0.760784, 0.0117647, 0.317647)
+Ribbon.BackgroundColor3 = Color3.new(0, 25, 193)
 Ribbon.BorderSizePixel = 0
 Ribbon.Size = UDim2.new(1, 0, 0, 20)
 Ribbon.ZIndex = 2
@@ -90,14 +90,14 @@ Hide.TextSize = 14
 
 Title.Name = "Title"
 Title.Parent = Ribbon
-Title.BackgroundColor3 = Color3.new(1, 0.0117647, 0.423529)
+Title.BackgroundColor3 = Color3.new(0, 25, 193)
 Title.BorderSizePixel = 0
 Title.Position = UDim2.new(0.5, -100, 0, 0)
 Title.Size = UDim2.new(0, 200, 0, 20)
 Title.ZIndex = 3
 Title.Font = Enum.Font.SourceSansBold
 Title.FontSize = Enum.FontSize.Size14
-Title.Text = "Remote2Script v2"
+Title.Text = "Remote2Script v2 notpies edition"
 Title.TextColor3 = Color3.new(1, 1, 1)
 Title.TextSize = 14
 
@@ -299,7 +299,7 @@ Icon.Image = "rbxassetid://413369506"
 
 RemoteName.Name = "RemoteName"
 RemoteName.Parent = RBTN
-RemoteName.BackgroundColor3 = Color3.new(0.713726, 0.00392157, 0.298039)
+RemoteName.BackgroundColor3 = Color3.new(0, 25, 193)
 RemoteName.BorderSizePixel = 0
 RemoteName.Position = UDim2.new(0, 30, 0, 0)
 RemoteName.Size = UDim2.new(0, 140, 0, 20)
@@ -312,7 +312,7 @@ RemoteName.TextSize = 14
 
 ID.Name = "ID"
 ID.Parent = RBTN
-ID.BackgroundColor3 = Color3.new(0.458824, 0.00392157, 0.192157)
+ID.BackgroundColor3 = Color3.new(0, 25, 193)
 ID.BorderSizePixel = 0
 ID.Position = UDim2.new(1, -50, 0, 0)
 ID.Size = UDim2.new(0, 50, 0, 20)
